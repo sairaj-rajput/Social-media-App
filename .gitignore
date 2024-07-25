@@ -1,1 +1,22 @@
-node_modules
+# Dependency directories
+/node_modules
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log
+*.log
+
+# Generated files
+dist/
+coverage/
+
+# IDE/editor specific files
+.vscode
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
